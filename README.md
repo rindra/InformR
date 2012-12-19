@@ -6,7 +6,7 @@ Simple class to retrieve user data.
 Usage
 =====
 
-First intantiate the informer class:
+First intantiate the InformR class:
 
 	var informr:InformR = new InformR;
 
