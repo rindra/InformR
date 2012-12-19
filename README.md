@@ -1,7 +1,7 @@
 InformR
 =====
 
-Simple class to retrieve user data.
+Simple class to retrieve user data
 
 Usage
 =====
